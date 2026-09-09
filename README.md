@@ -72,14 +72,14 @@
 ### **GitHub Activity & Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aagung22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagung22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8" height="175" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=aagung22&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aagung22&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aagung22&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aagung22&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -92,13 +92,3 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br/>
-
-<details>
-<summary><b>🏆 Lihat Trofi Pencapaian GitHub</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aagung22&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-</details>

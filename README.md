@@ -24,7 +24,7 @@
 
 ---
 
-### **GitHub Contribution Activity** 🎮
+### **GitHub Contribution Activity**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aagung22/aagung22/output/pacman.svg" alt="Pac-Man Contribution Graph" />

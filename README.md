@@ -24,57 +24,12 @@
 
 ---
 
-### **Tech Stack & Skills**
-
-<div align="center">
-
-#### Core Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java" alt="Languages" />
-</a>
-
-#### Frameworks & Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vuejs,nextjs,tailwind,bootstrap,nodejs,express,laravel" alt="Frameworks" />
-</a>
-
-#### Database & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" alt="Databases" />
-</a>
-
-#### Tools & Workflow
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,npm" alt="Tools" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>Lihat Detail Badges & Ecosystem</b></summary>
-<br/>
-
-| Kategori | Teknologi |
-| :--- | :--- |
-| **Bahasa** | `JavaScript` `TypeScript` `PHP` `Python` `Java` `HTML5` `CSS3` |
-| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `Bootstrap` |
-| **Mobile** | `React Native` `Flutter` |
-| **Backend & API** | `Node.js` `Express.js` `Laravel` `RESTful API` |
-| **Database** | `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
-| **Tools & UI** | `Git` `VS Code` `Figma` `Postman` `Docker` |
-
-</details>
-
----
-
-### **GitHub Contribution Activity** 🐍
+### **GitHub Contribution Activity** 🎮
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Animation" src="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>

@@ -69,22 +69,8 @@
 
 ---
 
-### **GitHub Activity & Analytics**
+### **GitHub Contribution Activity** 🐍
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aagung22&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aagung22&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aagung22&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<!-- Snake Contribution Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aagung22/aagung22/output/github-contribution-grid-snake-dark.svg">

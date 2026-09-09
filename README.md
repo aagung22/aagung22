@@ -27,5 +27,9 @@
 ### **GitHub Contribution Activity**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aagung22/aagung22/output/pacman.svg" alt="Pac-Man Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aagung22/aagung22/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aagung22/aagung22/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/aagung22/aagung22/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>

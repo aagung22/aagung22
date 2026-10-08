@@ -18,10 +18,10 @@
 
 ### **Tentang Saya**
 
-- 👨‍💻 Halo, Saya **Agung Sedayu**
-- 🎓 Mahasiswa **Teknik Informatika** di **Universitas Dr. Soetomo**
-- 💻 Berfokus pada **Frontend Web Development**
-- 📫 Hubungi saya langsung via **[Email](mailto:agungsedayuuu28@gmail.com)** atau **[LinkedIn](https://www.linkedin.com/in/agung-sedayu22/)**
+- Halo, Saya **Agung Sedayu**
+- Mahasiswa **Teknik Informatika** di **Universitas Dr. Soetomo**
+- Berfokus pada **Web Development**
+- Hubungi saya langsung via **[Email](mailto:agungsedayuuu28@gmail.com)** atau **[LinkedIn](https://www.linkedin.com/in/agung-sedayu22/)**
 
 ---
 
